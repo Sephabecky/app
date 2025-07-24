@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.io.*;
 import java.util.stream.IntStream;
 
-public class WelfareSystemAp {
+public class WelfareSystemAp { 
     private JFrame frame;
     private CardLayout cardLayout;
     private JPanel mainPanel;
